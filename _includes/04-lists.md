@@ -1,3 +1,3 @@
-+ 💻  Code
-+ 😴  Sleep
-+ 🔁  Repeat
+- 💻  Code
+- 😴  Sleep
+- 🔁  Repeat
